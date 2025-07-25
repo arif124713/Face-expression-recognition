@@ -1,0 +1,9 @@
+myenv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.log
+*.mp4
+.DS_Store
+.env
