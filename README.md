@@ -1,4 +1,4 @@
-echo "# Face Expression Recognition 🎭
+Face Expression Recognition 🎭
 
 This is a real-time facial expression recognition system built with **Keras**, **OpenCV**, and a custom-trained **CNN model**. It detects human emotions from webcam video frames and classifies them into one of seven expressions.
 
